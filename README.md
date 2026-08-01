@@ -33,3 +33,11 @@ Movie-Ticket-Booking-System
 ## Author
 
 Akshaya
+B.Tech – Artificial Intelligence and Data Science  
+Kamaraj College of Engineering and Technology
+
+---
+
+## 📜 License
+
+This project is created for educational and learning purposes.
