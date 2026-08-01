@@ -29,19 +29,6 @@ Movie-Ticket-Booking-System
 │── ticket.jpg
 ```
 
-## Screenshots
-
-### Home Page
-
-![Home](screenshots/home.png)
-
-### Booking Form
-
-![Booking](screenshots/booking.png)
-
-### Ticket
-
-![Ticket](screenshots/ticket.png)
 
 ## Author
 
